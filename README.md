@@ -6,7 +6,7 @@ Scheme was used in the seminal MIT Computer Science Lecture Series [Structure an
 This repository is a work-in-progress. The plan is to update it over time. Currently, there are only two contributions.
 
 ### 1. An application of relational programming to Discrete Mathematics
-This contribution illustrates the idea of metalinguistic abstraction (solving complex problems by creating a new language to model the problem space) using the relational language miniKanren. It contains programs for logical inference that can be queried with the user interface from [The Reasoned Schemer] (https://mitpress.mit.edu/9780262535519/the-reasoned-schemer/). 
+This contribution illustrates the idea of metalinguistic abstraction (solving complex problems by creating a new language to model the problem space) using the relational language miniKanren. It contains programs for logical inference that can be queried with the user interface from [The Reasoned Schemer](https://mitpress.mit.edu/9780262535519/the-reasoned-schemer/). 
 
 To run the code, install an implementation of Scheme (Racket is easy to use), and type `(load "relational-programming-for-DM.scm")` on the command line of the interpreter (REPL). It is then possible to perform the follow queries.
 
