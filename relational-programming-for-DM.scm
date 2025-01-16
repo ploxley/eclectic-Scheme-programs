@@ -44,7 +44,8 @@
 	 (bool-if-then q p y)
 	 (bool-and x y r)))
 
-; Logic relations can be used to generate valid and invalid argument forms:
+; Logic relations can be used to generate critical rows of
+; truth tables for valid and invalid argument forms:
 
 (defrel (modus-tollens r)
   (fresh (p q x)
