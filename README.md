@@ -1,7 +1,7 @@
 # An Eclectic Collection of Scheme Programs
 Scheme is a minimal Lisp that supports functional, imperative, and meta programming paradigms. 
 
-Scheme was used in the seminal MIT Computer Science Lecture Series [Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/) presented by Abelson and Sussman, as well as the excellent [Little Schemer](https://mitpress.mit.edu/9780262560993/the-little-schemer/) Book Series by Friedman et al.
+Scheme was used in the seminal MIT Computer Science Lecture Series [Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/) presented by Abelson and Sussman, as well as the excellent [The Little Schemer](https://mitpress.mit.edu/9780262560993/the-little-schemer/) Book Series by Friedman et al.
 
 This repository is a work-in-progress. The plan is to update it over time. Currently, there are only two contributions.
 
