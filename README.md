@@ -59,7 +59,7 @@ or
 
 `'((1 1 1 1) (1 1 1 1) (1 1 1 1))`
 
-to confirm (from their critical rows) that they all have valid argument forms.
+to confirm (from their critical rows) that they all have valid argument forms. There are many other cool things that can be done with this approach.
 
 
 ### 2. A (very) preliminary attempt at developing a Universal Turing Machine
