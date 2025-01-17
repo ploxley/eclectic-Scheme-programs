@@ -26,7 +26,7 @@
 	   (string->number (string char)))
 	 (string->list str))))
 
-; Apply transition function over string
+; Apply transition function over input string
 (define process-string
   (lambda (string start-state accept-state)
     (letrec ((loop
