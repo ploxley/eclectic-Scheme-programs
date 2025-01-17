@@ -119,7 +119,7 @@ leads to
 
 To illustrate a Turing machine (Example 3.9 from Sipser) that accepts strings of the form 
 
-$\{w \# w|\ w\in \{0,1\}^*\}$, type 
+$\\{w \\# w|\\ w\\in \\{0,1\\}^*\\}$, type 
 
 `> (load "TM.scm")`
 
