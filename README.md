@@ -93,7 +93,7 @@ leads to
 
 `"reject"`
 
-To illustrate a deterministic pushdown automaton (Example 2.14 from Sipser) that accepts strings of the form $\{0^n1^n|\ n\geq 0\}$, type 
+To illustrate a deterministic pushdown automaton (Example 2.14 from Sipser) that accepts strings of the form $\\{0^n1^n|\\ n\\geq 0\\}$, type 
 
 `(load "pushdown-automaton.scm")`
 
