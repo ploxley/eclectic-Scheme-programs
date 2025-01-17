@@ -147,7 +147,7 @@ The final example is a Turing machine programmed as an interpreter for a finite 
 
 As an example, type
 
-`> (set! *dfa-input* '(0 0 0 0 1 0 0))`
+`> (define *dfa-input* '(0 0 0 0 1 0 0))`
 
 for the finite automaton's input, corresponding to the string `"0000100"`. Typing
 
